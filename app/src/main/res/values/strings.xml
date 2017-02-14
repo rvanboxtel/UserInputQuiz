@@ -3,10 +3,15 @@
     <string name="quizwelcome">Welcome to the quiz!</string>
     <string name="question1">Question 1: What does STO stand for?</string>
     <string name="question2">Question 2: What does SWTOR stand for?</string>
+    <string name="question3">Question 3: Who takes most of your money on games?</string>
     <string name="awnserquestion1">Star Trek Online</string>
     <string name="awnserquestion2">Star Trace Online</string>
     <string name="awnserquestion3">Star Wars the Old Rebellion</string>
     <string name="awnserquestion4">Star Wars the Old Republic</string>
     <string name="awnserquestion5">Star Wars the Ordellius Rescue</string>
+    <string name="awnserquestion6">Lord Gaben (Steam)</string>
+    <string name="awnserquestion7">Blizzard</string>
+    <string name="awnserquestion8">Origins</string>
+    <string name="submitantwoorden">Submit anwsers</string>
     <string name="aantalpunten">Punten :0</string>
 </resources>
